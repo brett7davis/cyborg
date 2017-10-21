@@ -1,0 +1,63 @@
+<style>
+
+h1 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 15px;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.thin-orange-border {
+ border-color: orange;
+ border-width: 8px;
+ border-style: double;
+}
+
+.thin-red-border {
+ border-color: red;
+ border-width: 2px;
+ border-style: solid;
+}
+
+.fancy {
+  font-family: 'Amatic SC', serif;
+}
+
+.white-text {
+  color: white;
+}
+
+.smaller-image {
+  width: 350px;
+}
+
+.block-image {
+  width: 130px;
+  height: 100px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.red-text {
+  color: red;
+}
+
+.orange-text {
+  color: orange;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: red;
+}
+
+
+</style>
